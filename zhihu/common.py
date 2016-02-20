@@ -22,7 +22,7 @@ Default_Header = {'X-Requested-With': 'XMLHttpRequest',
                                 'rv:39.0) Gecko/20100101 Firefox/39.0',
                   'Host': 'www.zhihu.com'}
 
-Zhihu_URL = 'https://www.zhihu.com'
+Zhihu_URL = 'http://www.zhihu.com'
 Login_URL = Zhihu_URL + '/login/email'
 Captcha_URL_Prefix = Zhihu_URL + '/captcha.gif?r='
 Get_Profile_Card_URL = Zhihu_URL + '/node/MemberProfileCardV2'
